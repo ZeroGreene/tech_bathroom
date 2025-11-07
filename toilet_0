@@ -1,18 +1,24 @@
-0.auto:
- 0a.open and close
- 0b. auto clean
- 0c. auto alert when cleaning supplies run low
- 0d. will have a bidet and text alert when wet wipes and/or toilet paper are running low. plan for wet wipes and toilet paper, if they are spending $2000 on a toilet, is it a stretch?
+0.3d Printers for the toilet:
+0a. material options: ceramic for now
 
-1. bidet goals & plans:
-1a. top of the line water jet patterns.
+1. Programming language(s): 
+1a.python
 
-2.auto cleaning goals & plans:
-2a. the user presses a button and leaves the bathroom
-  2aa. the user comes back 10 minutes later and the toilet is completly spotless inside and out
-  2ab. Why or why not can the user be in the room during the cleaning process?
+2.Auto:
+ 2a.open and close
+ 2b. auto clean
+ 2c. auto alert when cleaning supplies run low
+ 2d. will have a bidet and text alert when wet wipes and/or toilet paper are running low. plan for wet wipes and toilet paper, if they are spending $2000 on a toilet, is it a stretch?
 
-3. Price:
-? Probably over $4000
+3. Bidet goals & plans:
+3a. top of the line water jet patterns.
+
+4.Auto cleaning goals & plans:
+4a. The user presses a button and leaves the bathroom
+  4aa. the user comes back 10 minutes later and the toilet is completly spotless inside and out
+  4ab. Why or why not can the user be in the room during the cleaning process?
+
+5. Price:
+5. ? Probably over $4000 under $1 billion
 
  
